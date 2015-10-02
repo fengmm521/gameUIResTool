@@ -7,6 +7,6 @@
 
 4.将编辑器导出的json文件复制到UIJson目录中。
 
-5.运行uiJsonUIDate.py，运行之后，会在UIClass中生成界面对就有C++类代码。将代码复制到游戏项目，作一下简单修可，即可以在项目中使用。
+5.运行uiJsonUIDate.py，运行之后，会在UIClass中生成界面对就有C++类代码。将代码复制到游戏项目，作一下简单修改，即可以在项目中使用。
 
 6.将UIJsonOut中的json文件复制到UIJson目录中，并替换原来的文件。再次运行uiJsonUIDate.py。这时会成生界面对应的pvr打包好的图片。
